@@ -14,33 +14,32 @@
 
 # 4W & 1H
 ## Where:
-  Seat heater is used in automobile cars.
+  heater are used in factories and industries.
  
 ## Who:
-  passengers or drivers in car
+  workers or empolyees in factories and industries.
   
 ## When:
-   Depending on the temperature
+   to control the required temperature.
 
 ## What:
-   It heats the car seat
+   It heats the boiler.
 
 ## How:
-   1. Button Sensor will check the passenger is seated or not.
+   1. Button Sensor will check the boiler is on or not.
    2. Temperature sensor work as per mentioned.
    3. Display CDD-CRO will give the temperature value by showing PWM.
-   4. Led Actuator shows the driver is seated.
-   5. Heater will check the heater button is ON.
+   4. Heater will check the heater button is ON.
  
  # Detail Requirements
  ## High Level Requirment
  
  | Id| Description| Status|
  |:---:|:---:|:---:|
- |HLR_1| Button sensor will check the passenger is seated or not| Implemented|
+ |HLR_1| Button sensor will check the boiler is on or not| Implemented|
  |HLR_2| Temperature sensor as per mentioned| Implemented|
  |HLR_3| Display CDD-CRO will give the temperature value by showing PWM| Implemented|
- |HLR_4| Led Actuator shows the driver is seated.|Implemented|
+ |HLR_4| Led Actuator shows the boiler is started or not.|Implemented|
  
  ## Low level Requirements
  
@@ -61,33 +60,32 @@
 
 # 4W & 1H
 ## Where:
-  Seat heater is used in automobile cars.
+  heater are used in factories and industries.
  
 ## Who:
-  passengers or drivers in car
+  workers or empolyees in factories and industries.
   
 ## When:
    Depending on the temperature
 
 ## What:
-   It heats the car seat
+   It heats the boiler.
 
 ## How:
-   1. Button Sensor will check the passenger is seated or not.
+   1. Button Sensor will check the boiler is on or not.
    2. Temperature sensor work as per mentioned.
    3. Display CDD-CRO will give the temperature value by showing PWM.
-   4. Led Actuator shows the driver is seated.
-   5. Heater will check the heater button is ON.
+   4. Heater will check the heater button is ON.
  
  # Detail Requirements
  ## High Level Requirment
  
  | Id| Description| Status|
  |:---:|:---:|:---:|
- |HLR_1| Button sensor will check the passenger is seated or not| Implemented|
+ |HLR_1| Button sensor will check the boiler is on or not| Implemented|
  |HLR_2| Temperature sensor as per mentioned| Implemented|
  |HLR_3| Display CDD-CRO will give the temperature value by showing PWM| Implemented|
- |HLR_4| Led Actuator shows the driver is seated.|Implemented|
+ |HLR_4| Led Actuator shows the boiler is started or not.|Implemented|
  
  ## Low level Requirements
  
